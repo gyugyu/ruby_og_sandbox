@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@resvg/resvg-js": "^2.1.0",
+    "@vercel/og": "^0.0.19",
+    "base64url": "^3.0.1",
+    "satori": "^0.0.42",
+    "yoga-wasm-web": "^0.1.2"
+  },
+  "devDependencies": {
+    "@fontsource/roboto": "^4.5.8",
+    "@rollup/plugin-commonjs": "^23.0.1",
+    "@rollup/plugin-json": "^5.0.0",
+    "@rollup/plugin-node-resolve": "^15.0.0",
+    "@rollup/plugin-url": "^8.0.0",
+    "rollup": "^3.2.3",
+    "rollup-plugin-node-polyfills": "^0.2.1"
+  }
+}

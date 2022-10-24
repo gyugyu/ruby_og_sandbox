@@ -15,7 +15,7 @@ module.exports = {
   plugins: [
     url({
       limit: 10000000000,
-      include: ['**/*.ttf']
+      include: ['**/*.ttf', '**/*.wasm']
     }),
     json(),
     commonjs(),

@@ -2,6 +2,4 @@
 
 source "https://rubygems.org"
 
-gem "rake"
 gem "execjs"
-# gem "mini_racer"
